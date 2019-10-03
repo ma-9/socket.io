@@ -12,4 +12,4 @@
 
 [SEE EXAMPLE](https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
 
-[sa](https://socket.io/images/chat-3.png)
+![sa](https://socket.io/images/chat-3.png)
