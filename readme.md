@@ -13,4 +13,4 @@
 [SEE FULL APP EXAMPLE](https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
 
 
-[My Own Example](https://firebasestorage.googleapis.com/v0/b/testingfirebase-7eb53.appspot.com/o/Socket.io.jpg?alt=media&token=90d1f41d-6dd7-4c9c-9d0c-31ad232f927d)
+![My Own Example](https://firebasestorage.googleapis.com/v0/b/testingfirebase-7eb53.appspot.com/o/Socket.io.jpg?alt=media&token=90d1f41d-6dd7-4c9c-9d0c-31ad232f927d)
