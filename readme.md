@@ -10,4 +10,4 @@
 
 ### You can also find Socket.IO github Repo here: https://github.com/socketio
 
-[SEE EXAMPLE(https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
+[SEE EXAMPLE](https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
