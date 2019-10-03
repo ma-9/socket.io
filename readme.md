@@ -10,6 +10,7 @@
 
 ### You can also find Socket.IO github Repo here: https://github.com/socketio
 
-[SEE EXAMPLE](https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
+[SEE FULL APP EXAMPLE](https://i.cloudup.com/transcoded/J4xwRU9DRn.mp4)
 
-![sa](https://socket.io/images/chat-3.png)
+
+[My Own Example](https://firebasestorage.googleapis.com/v0/b/testingfirebase-7eb53.appspot.com/o/Socket.io.jpg?alt=media&token=90d1f41d-6dd7-4c9c-9d0c-31ad232f927d)
