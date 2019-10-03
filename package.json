@@ -4,7 +4,7 @@
   "description": "First Application that shows chatting web app using socket.io",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
